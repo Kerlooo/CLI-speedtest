@@ -1,7 +1,7 @@
 # Python CLI SpeedTest
 ## How to use it
 ```bash
-git clone https://github.com/Kerlooo/CLI-peedtest.git
+git clone https://github.com/Kerlooo/CLI-speedtest.git
 cd CLI-speedtest
 source myenv/bin/activate
 pip install speedtest-cli
