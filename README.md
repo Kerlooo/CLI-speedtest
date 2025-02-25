@@ -1,5 +1,6 @@
 # Python CLI SpeedTest
-## How to use it
+# How to use it
+## Debian
 ```bash
 git clone https://github.com/Kerlooo/CLI-speedtest.git
 cd CLI-speedtest
