@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV=/home/kerlo/Desktop/CLI-peedtest/myenv
+VIRTUAL_ENV=/home/kerlo/Progetti/CLI-speedtest/myenv
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
